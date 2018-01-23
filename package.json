@@ -1,0 +1,18 @@
+{
+  "name": "fastify-supertest-demo",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "timwis <tim@timwis.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.24.0",
+    "supertest": "^3.0.0"
+  },
+  "dependencies": {
+    "fastify": "^0.39.1"
+  }
+}
